@@ -1,4 +1,7 @@
-# ComfyUI-SeedVR2_VideoUpscaler
+# ComfyUI-SeedVR2_VideoUpscaler_cudafull
+
+<img width="1338" height="563" alt="image" src="https://github.com/user-attachments/assets/309ffa9d-4b69-4fd0-8e14-c13b79165382" />
+
 
 [![View Code](https://img.shields.io/badge/📂_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler)
 
